@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marylyn Wanjiku Kayai - Portfolio</title>
+</head>
+<body>
+    <h1>Marylyn Wanjiku Kayai</h1>
+    <p>Welcome to my professional portfolio!</p>
+
+    <h2>About Me</h2>
+    <p>Motivated and results-oriented Agriculture Economics graduate...</p>
+
+    <h2>Skills & Competencies</h2>
+    <ul>
+        <li>Data Collection & Analysis</li>
+        <li>Research Skills</li>
+        <li>Communication</li>
+        <li>IT & Software Proficiency</li>
+    </ul>
+
+    <h2>Professional Experience</h2>
+    <h3>Independent Consultant (Sept 2020 – Present)</h3>
+    <p>Conducted project data collection for diverse clients...</p>
+
+    <h2>Projects</h2>
+    <p>Highlights of my work in invasive species, food safety...</p>
+
+    <h2>Education</h2>
+    <p>Bachelor’s Degree in Agriculture Economics, University of Nairobi...</p>
+
+    <h2>Contact</h2>
+    <p>Email: wanjikukayai@gmail.com | Phone: 0791390910</p>
+</body>
+</html>
